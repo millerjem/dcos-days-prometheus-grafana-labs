@@ -11,28 +11,28 @@ Marathon-LB is an easy-to-use, HAProxy-based load balancer most commonly used to
 
 To install Marathon-LB on DC/OS, first navigate to the *Catalog* tab in your DC/OS UI.
 
-![catalog-tab]()
+![catalog-tab](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/catalog-tab.png)
 
 
 In the search box, search for `marathon-lb` and select *marathon-lb*.
 
-![marathon-search]()
+![marathon-search](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/marathon-search.png)
 
 Next, click *Review & Run* to open the configuration settings for your new Marathon-LB instance.
 
-![marathon-review-and-run]()
+![marathon-review-and-run](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/marathon-review-and-run.png)
 
 Without making any changes to the configuration, click *Review and Run* again.
 
-![marathon-review-and-run-2]()
+![marathon-review-and-run-2](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/marathon-review-and-run-2.png)
 
 As a last step, click *Run Service*.
 
-![marathon-run-service]()
+![marathon-run-service](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/marathon-run-service.png)
 
 In the *Services* tab of the DC/OS GUI, you should now see Marathon-LB starting up.
 
-![marathon-booting-up]()
+![marathon-booting-up](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/marathon-booting-up.png)
 
 
 ## Step 2 - Install Prometheus
@@ -41,19 +41,19 @@ As in Step 1, navigate to the *Catalog* tab in the DC/OS UI.
 
 In the search box, search for `prometheus` and click the package.
 
-![prometheus-search]()
+![prometheus-search](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/prometheus-search.png)
 
 Next, click *Review and Run*
 
-![prometheus-review-and-run]()
+![prometheus-review-and-run](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/prometheus-review-and-run.png)
 
 Without changing the configuration, click *Review and Run*.
 
-![prometheus-review-and-run-2]()
+![prometheus-review-and-run-2](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/prometheus-review-and-run-2.png)
 
 To begin the installation, click *Run Service*.
 
-![prometheus-run-service]()
+![prometheus-run-service](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/prometheus-run-service.png)
 
 In the *Services* tab of the DC/OS GUI, you should now see Prometheus starting up.
 
@@ -63,18 +63,18 @@ As in steps 1 and 2, navigate to the *Catalog* tab in the DC/OS UI.
 
 In the search box, search for `grafana` and click the package.
 
-![grafana-search]()
+![grafana-search](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-search.png)
 
 Next, click *Review and Run*
 
-![grafana-review-and-run]()
+![grafana-review-and-run](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-review-and-run.png)
 
 Without changing the configuration, click *Review and Run*.
 
-![grafana-review-and-run-2]()
+![grafana-review-and-run-2](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-review-and-run-2.png)
 
 To begin the installation, click *Run Service*.
 
-![grafana-run-service]()
+![grafana-run-service](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-run-service.png)
 
 In the *Services* tab of the DC/OS GUI, you should now see Grafana starting up.
