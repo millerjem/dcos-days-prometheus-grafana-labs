@@ -43,7 +43,7 @@ In the search box, search for `prometheus` and click the package.
 
 ![prometheus-search](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/prometheus-search.png)
 
-Next, click *Review and Run*
+Next, click *Review and Run*.
 
 ![prometheus-review-and-run](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/prometheus-review-and-run.png)
 
@@ -65,7 +65,7 @@ In the search box, search for `grafana` and click the package.
 
 ![grafana-search](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-search.png)
 
-Next, click *Review and Run*
+Next, click *Review and Run*.
 
 ![grafana-review-and-run](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-review-and-run.png)
 
