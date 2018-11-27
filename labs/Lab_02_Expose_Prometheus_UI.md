@@ -74,11 +74,6 @@ Next, delete the JSON currently in the editor and copy and paste the JSON below 
 }
 ```
 
-Click *Review & Run*.
-
-![proxy-review-and-run](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/proxy-review-and-run.png)
-
-
-Click *Run service*
+As in lab 1, click *Review & Run*, then click *Run service* on the following page to start the container.
 
 ![proxy-run-service](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/proxy-run-service.png)
