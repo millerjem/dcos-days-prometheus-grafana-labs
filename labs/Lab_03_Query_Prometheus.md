@@ -36,6 +36,8 @@ You can view a graphical representation of your data by selecting the *Graph* ta
 ![prometheus-cpu_usage_user-graph](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/prometheus-cpu_usage_user-graph.png)
 
 
+## Further reading
+
 Prometheus provides a comprehensive query syntax, along with sample queries. Please visit the [Prometheus documentation](https://prometheus.io/docs/prometheus/latest/querying/examples/) for more examples.
 
 
