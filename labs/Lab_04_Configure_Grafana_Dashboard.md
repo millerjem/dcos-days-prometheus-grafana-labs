@@ -1,4 +1,4 @@
-# Lab 3 - Explore and Query Prometheus 
+# Lab 4 - Configure and Explore Grafana 
 
 This lab will guide you through navigating to your Grafana dashboard, configuring Prometheus as the data source for Grafana, and configuring Grafana to visualize your data in a tidy dashboard.
 
