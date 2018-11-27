@@ -25,10 +25,6 @@ Once you've arrived at your Grafana service from the public internet, you must l
 ![grafana-login](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-login.png)
 
 
-Your dashboard should look like the screenshot below.
-
-![grafana-blank](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-blank.png)
-
 ## Step 3 - Configure Prometheus as the data source for Grafana
 
 Now that you're logged in, you need to add Prometheus as a data source for your Grafana to utilize.
