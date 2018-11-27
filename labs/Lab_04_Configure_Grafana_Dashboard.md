@@ -65,6 +65,8 @@ Lastly, select *Prometheus* from the list of data sources.
 
 You now have a working Grafana dashboard visualizing your Prometheus data!
 
+![`grafana-dashboard-complete`](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-dashboard-complete.png)
+
 
 ## Further reading
 
