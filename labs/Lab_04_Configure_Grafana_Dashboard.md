@@ -63,7 +63,7 @@ Lastly, select *Prometheus* from the list of data sources.
 
 ![`grafana-select-prometheus`](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-select-prometheus.png)
 
-You now have a working Grafana dashboard visualizing your Prometheus data!
+You now have a working Grafana dashboard visualizing your DC/OS cluster data!
 
 ![`grafana-dashboard-complete`](https://github.com/tbaums/dcos-days-prometheus-grafana-labs/blob/master/screenshots/grafana-dashboard-complete.png)
 
